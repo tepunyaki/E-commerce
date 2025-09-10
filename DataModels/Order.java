@@ -13,5 +13,3 @@ public record Order (String orderId , List<Product> products , String customerEm
         return total ;
     }
 }
-    
-
